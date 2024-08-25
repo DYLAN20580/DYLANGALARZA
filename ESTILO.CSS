@@ -1,0 +1,42 @@
+.cuadro{
+     background-color: green;
+     width: 400px;
+     height: 400px; 
+     position: absolute;
+    top: 20px;
+    left: 20px;
+    bottom: 20px;
+    right: 20px;
+    
+}
+.cuadr{
+    background-color: rgb(255, 255, 255);   
+    width: auto;
+     height: auto;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    bottom: 15px;
+    right: 15px;
+ 
+ }
+ .cuad {
+    background-color: goldenrod;
+    width: auto;
+    height: auto; 
+    position: absolute;
+   top: 20px;
+   left: 20px;
+   bottom: 20px;
+   right: 20px;
+ }
+ .nombre {
+   background-color: aqua;
+   width: 350;
+   height: 50; 
+   position: absolute;
+  top: 500px;
+  left: 500px;
+  bottom: 500px;
+  right: 500px;
+ }
